@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haider Ali\\Downloads\\Maui.NativeLibraryInterop-mainNew\\template\\template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F812A12B-4BA1-4405-8102-B7935FD0FD9E}|sample\\MauiSample.csproj|c:\\users\\haider ali\\downloads\\maui.nativelibraryinterop-mainnew\\template\\template\\sample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F812A12B-4BA1-4405-8102-B7935FD0FD9E}|sample\\MauiSample.csproj|solutionrelative:sample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1185B3A1-3556-4AE8-8EE2-63DB271414AF}|android\\NewBinding.Android.Binding\\NewBinding.Android.Binding.csproj|c:\\users\\haider ali\\downloads\\maui.nativelibraryinterop-mainnew\\template\\template\\android\\newbinding.android.binding\\newbinding.android.binding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1185B3A1-3556-4AE8-8EE2-63DB271414AF}|android\\NewBinding.Android.Binding\\NewBinding.Android.Binding.csproj|solutionrelative:android\\newbinding.android.binding\\newbinding.android.binding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F812A12B-4BA1-4405-8102-B7935FD0FD9E}|sample\\MauiSample.csproj|c:\\users\\haider ali\\downloads\\maui.nativelibraryinterop-mainnew\\template\\template\\sample\\mauisample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F812A12B-4BA1-4405-8102-B7935FD0FD9E}|sample\\MauiSample.csproj|solutionrelative:sample\\mauisample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBinding.Android.Binding.csproj",
+              "DocumentMoniker": "C:\\Users\\Haider Ali\\Downloads\\Maui.NativeLibraryInterop-mainNew\\template\\template\\android\\NewBinding.Android.Binding\\NewBinding.Android.Binding.csproj",
+              "RelativeDocumentMoniker": "android\\NewBinding.Android.Binding\\NewBinding.Android.Binding.csproj",
+              "ToolTip": "C:\\Users\\Haider Ali\\Downloads\\Maui.NativeLibraryInterop-mainNew\\template\\template\\android\\NewBinding.Android.Binding\\NewBinding.Android.Binding.csproj",
+              "RelativeToolTip": "android\\NewBinding.Android.Binding\\NewBinding.Android.Binding.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-16T19:41:24.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Haider Ali\\Downloads\\Maui.NativeLibraryInterop-mainNew\\template\\template\\sample\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "sample\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Haider Ali\\Downloads\\Maui.NativeLibraryInterop-mainNew\\template\\template\\sample\\MainPage.xaml.cs",
+              "RelativeToolTip": "sample\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABNAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:49:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiSample.csproj",
+              "DocumentMoniker": "C:\\Users\\Haider Ali\\Downloads\\Maui.NativeLibraryInterop-mainNew\\template\\template\\sample\\MauiSample.csproj",
+              "RelativeDocumentMoniker": "sample\\MauiSample.csproj",
+              "ToolTip": "C:\\Users\\Haider Ali\\Downloads\\Maui.NativeLibraryInterop-mainNew\\template\\template\\sample\\MauiSample.csproj",
+              "RelativeToolTip": "sample\\MauiSample.csproj",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwJIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T14:40:12.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
