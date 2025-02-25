@@ -1,4 +1,4 @@
-# Step-by-Step Guide to Stripe Integration in .NET MAUI Android via Native Interop
+# Stripe .NET MAUI Android
 
 ## 📌 Overview
 This repository provides a **comprehensive guide** on integrating **Stripe payments** into a **.NET MAUI Android** application using **native interop**. The goal is to bridge .NET MAUI with Android’s native Stripe SDK for seamless payment processing.
